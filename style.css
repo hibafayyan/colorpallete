@@ -1,0 +1,269 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/047/010/143/small/make-up-cosmetic-product-beauty-products-and-cosmetics-swatch-sample-flatlay-various-makeup-brand-tools-as-glamour-fashion-night-out-background-photo.jpg);
+
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.main1 h1
+ {
+    color: rgb(155, 54, 155);
+    position: absolute;
+    left: 25%;
+    font-size: 50px;
+
+}
+
+.main1 h2{
+    color: magenta;
+    position: absolute;
+    left: 32%;
+    font-size: 40px ;
+    top:80px;
+}
+
+.main1 {
+    width: 100vw;
+    position: relative;
+    
+}
+
+/* cirlcle 1 */
+
+.cir1 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(202, 56, 129);
+    position: absolute;
+    top: 150px;
+    left: 400px;
+    border: 2px white solid;
+}
+
+/* cirle 2 */
+
+
+.cir2 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(233, 117, 175);
+    position: absolute;
+    top: 150px;
+    left: 430px;
+    border: 2px white solid;
+}
+
+.cir3 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(252, 40, 153);
+    position: absolute;
+    top: 150px;
+    left: 460px;
+    border: 2px white solid;
+}
+
+.cir4 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: pink;
+    position: absolute;
+    top: 150px;
+    left: 490px;
+    border: 2px white solid;
+}
+
+.cir5 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(218, 7, 123);
+    position: absolute;
+    top: 150px;
+    left: 520px;
+    border: 2px white solid;
+}
+
+
+
+
+
+
+
+/* parent div 2 green pallete */
+
+
+.main2 h2{
+    color: rgb(23, 129, 13);
+    position: absolute;
+    left: 32%;
+    font-size: 40px ;
+    top:250px;
+}
+
+.main2 {
+    width: 100vw;
+    position: relative;
+    
+}
+
+/*  green cirlcle 1 */
+
+.g1 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(16, 92, 41);
+    position: absolute;
+    top: 300px;
+    left: 400px;
+    border: 2px white solid;
+}
+
+/*  green cirle 2 */
+
+
+.g2 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(45, 179, 101);
+    
+    position: absolute;
+    top: 300px;
+    left: 430px;
+    border: 2px white solid;
+}
+
+           /* green circle 3 */
+.g3 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(68, 201, 86);
+    position: absolute;
+    top: 300px;
+    left: 460px;
+    border: 2px white solid;
+}
+  /* green circle 4 */
+.g4 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(130, 179, 160);
+    
+    position: absolute;
+    top: 300px;
+    left: 490px;
+    border: 2px white solid;
+}
+ /* green circle 5 */
+
+.g5 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(161, 247, 196);
+    position: absolute;
+    top: 300px;
+    left: 520px;
+    border: 2px white solid;
+}
+
+
+/* parent 3 blue pallete */
+
+.main3 {
+    width: 100vw;
+    position: relative;
+    
+}
+
+.main3 h2{
+    color: rgb(95, 165, 206);
+    position: absolute;
+    left: 32%;
+    font-size: 40px ;
+    top:400px;
+}
+
+.main3 {
+    width: 100vw;
+    position: relative;
+    
+}
+
+/* blue cirlcle 1 */
+
+.b1 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(38, 137, 218);
+    position: absolute;
+    top: 450px;
+    left: 400px;
+    border: 2px white solid;
+}
+
+/* blue cirle 2 */
+
+
+.b2 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(76, 130, 180);
+    
+    position: absolute;
+    top: 450px;
+    left: 430px;
+    border: 2px white solid;
+}
+  /* blue circle 3 */
+.b3 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(125, 137, 155);
+    position: absolute;
+    top: 450px;
+    left: 460px;
+    border: 2px white solid;
+}
+
+/* blue circle 4 */
+
+.b4 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(56, 77, 102);
+    
+    position: absolute;
+    top: 450px;
+    left: 490px;
+    border: 2px white solid;
+}
+         /* blue circle 5 */
+.b5 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: rgb(66, 170, 170);
+    position: absolute;
+    top: 450px;
+    left: 520px;
+    border: 2px white solid;
+}
